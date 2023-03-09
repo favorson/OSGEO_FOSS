@@ -8,4 +8,4 @@
 ## 오픈소스 GIS
 
 Branch Test 
-main -> test-branc -> main -> test-branc2
+main -> test-branc2 -> main
