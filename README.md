@@ -26,7 +26,7 @@
 
 ## Pull Request 테스트
 
-# OSGE 한국어지부
+# OSGEO 한국어지부
 
 ## 봄!!
 
