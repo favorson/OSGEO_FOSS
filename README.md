@@ -36,12 +36,13 @@
 
 ## 겨울
 
-#개발언어 
+#개발언어
 ## C
 ## JAVA
-## PYTHON!!!!
+## PYTHON
 ## GO
-
+## PYTHON
+## GO
 
 
 
