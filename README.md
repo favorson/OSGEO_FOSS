@@ -39,6 +39,9 @@
 #개발언어 
 ## C
 ## JAVA
-## PYTHON
+## PYTHON!!!!
 ## GO
+
+
+
 
